@@ -1,24 +1,18 @@
-OMNIS
+# OMNIS
 
-Sovereign memory vault – original OMNIS lineage.
+> **Omniscient framework – full‑stack AI orchestration (precursor to OMNIS_V3) with backend and frontend.**
 
-OMNIS is the original sovereign memory vault containing 82k+ chunks, event-stream, and the canonical freeze lineage that led to OMNIS_V3.
+## Role in Aethel
+This repository is a component of the Aethel ecosystem. For detailed documentation, refer to the source code and comments.
 
-Purpose
-Original memory vault and knowledge base
-Event-stream and provenance tracking
-Base for OMNIS_V3 canonical freeze
-Sovereign ledger for all empire data
+## Overview
+Full-stack AI orchestration with backend and frontend – precursor to OMNIS_V3.
 
-Features
-82k+ memory chunks
-Hash-chained provenance
-Ghost cloud sync
-Compatibility with OMNIS_V3
-
-Quick Start
+## Quick Start
+```bash
 cd ~/OMNIS
-npm install
-node omnis.js
-License
-MIT
+# See source files for build/run instructions
+```
+
+## License
+MIT – see [LICENSE](LICENSE) (if any)
